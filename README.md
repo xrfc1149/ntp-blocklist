@@ -11,5 +11,4 @@ Se actualizará semanalmente.
 
 TENEME PACIENCIA AMIGUITO PLIS.
 
-HELP@1149.COM.AR
 
