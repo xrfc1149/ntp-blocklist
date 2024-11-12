@@ -7,7 +7,7 @@ LISTADO RAW PARA USAR EN BLOQUEADORES (in sync)
 
 LA LISTA NO ESTÁ CURADA, POR FAVOR USELA CON RESPONSABILIDAD.
 
-Ips Recolectadas al 6/11/24 = 756 Ips (ultimos ingrésos son botnets chinas)
+Ips Recolectadas al 11/11/24 = 756 Ips (ultimos ingrésos son botnets chinas)
 
 Se actualizará semanalmente. 
 
